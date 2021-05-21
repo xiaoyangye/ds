@@ -1,2 +1,1 @@
-# ds
-data science
+# data science
